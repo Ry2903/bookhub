@@ -1,5 +1,5 @@
 # 📙BookHub
-**BookHub:** ***"onde os livros conectam leitores"***
+## **BookHub:** ***"onde os livros conectam leitores"***
 
 ### ℹ️ Sobre o projeto:
 - O **BookHub** é uma rede social voltado para leitores, com o objetivo de conectar leitores de diferentes lugares por ler um mesmo livro. Sua funcionalidade foi inspirada no Skoob®, e o layout teve inspiração no Twitter/X®
