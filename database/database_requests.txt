@@ -1,0 +1,31 @@
+BD - BookHub:
+
+Cadastro:
+    - userid (PK)
+    - nome
+    - username (unique)
+    - senha (vamos tentar em hash?)
+    - foto de perfil
+    - bio
+    - data de criação do perfil
+
+Livro:
+    - ISBN (PK)
+    - nome do livro
+    - autor
+    - editora
+    - qtd paginas
+
+Posts:
+    - postid (PK)
+    - userid (FK)
+    - conteúdo
+    - idlivro (FK)
+    - data de postagem
+
+Página do Usuário:
+	- nome
+	- username (FK)
+	- bio
+	- foto de perfil
+    - data de criação do perfil
